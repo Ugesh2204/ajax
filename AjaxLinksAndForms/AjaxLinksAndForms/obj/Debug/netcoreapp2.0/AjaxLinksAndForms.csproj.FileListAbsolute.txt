@@ -1,0 +1,11 @@
+C:\Users\Md Manzoor Ahmed\source\repos\AjaxLinksAndForms\AjaxLinksAndForms\bin\Debug\netcoreapp2.0\AjaxLinksAndForms.deps.json
+C:\Users\Md Manzoor Ahmed\source\repos\AjaxLinksAndForms\AjaxLinksAndForms\bin\Debug\netcoreapp2.0\AjaxLinksAndForms.runtimeconfig.json
+C:\Users\Md Manzoor Ahmed\source\repos\AjaxLinksAndForms\AjaxLinksAndForms\bin\Debug\netcoreapp2.0\AjaxLinksAndForms.runtimeconfig.dev.json
+C:\Users\Md Manzoor Ahmed\source\repos\AjaxLinksAndForms\AjaxLinksAndForms\bin\Debug\netcoreapp2.0\AjaxLinksAndForms.dll
+C:\Users\Md Manzoor Ahmed\source\repos\AjaxLinksAndForms\AjaxLinksAndForms\bin\Debug\netcoreapp2.0\AjaxLinksAndForms.pdb
+C:\Users\Md Manzoor Ahmed\source\repos\AjaxLinksAndForms\AjaxLinksAndForms\obj\Debug\netcoreapp2.0\AjaxLinksAndForms.csproj.CoreCompileInputs.cache
+C:\Users\Md Manzoor Ahmed\source\repos\AjaxLinksAndForms\AjaxLinksAndForms\obj\Debug\netcoreapp2.0\AjaxLinksAndForms.AssemblyInfoInputs.cache
+C:\Users\Md Manzoor Ahmed\source\repos\AjaxLinksAndForms\AjaxLinksAndForms\obj\Debug\netcoreapp2.0\AjaxLinksAndForms.AssemblyInfo.cs
+C:\Users\Md Manzoor Ahmed\source\repos\AjaxLinksAndForms\AjaxLinksAndForms\obj\Debug\netcoreapp2.0\AjaxLinksAndForms.dll
+C:\Users\Md Manzoor Ahmed\source\repos\AjaxLinksAndForms\AjaxLinksAndForms\obj\Debug\netcoreapp2.0\AjaxLinksAndForms.pdb
+C:\Users\Md Manzoor Ahmed\source\repos\AjaxLinksAndForms\AjaxLinksAndForms\obj\Debug\netcoreapp2.0\AjaxLinksAndForms.csprojAssemblyReference.cache
